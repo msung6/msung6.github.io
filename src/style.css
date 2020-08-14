@@ -1,0 +1,91 @@
+/** Add any CSS you need to this file. */
+
+h3{
+  background-color: grey;
+  font-size: medium;
+  font-family: 'Cedarville Cursive', cursive;;
+  color: white;
+  text-align: center;
+  width:auto;
+  
+}
+body{
+  width:auto;
+  
+  
+}
+.imag-container{
+  text-align: center;
+}
+form{
+  background-color: white;
+}
+.contactFooter { 
+      position: relative; 
+      padding: 10px 10px 0px 10px; 
+      bottom: 0; 
+      width: auto; 
+      /* Height of the footer*/  
+      height: 10px; 
+      margin-left: 22%;
+      
+      
+      background: white; 
+
+  } 
+  .mainFooter { 
+    position: absolute; 
+    padding: 10px 10px 0px 10px; 
+    bottom: 0; 
+    width: auto; 
+    margin-left: 20%;
+    /* Height of the footer*/  
+    height: 40px; 
+    background: white; 
+
+} 
+
+   .imag-container{
+        text-align: center;
+      }
+            table{
+              margin:auto;
+              text-align: center;
+              width: 10px;
+            }
+      #main{
+        margin: auto;
+        height: auto;
+        
+      }
+      .back{
+        position: relative;;
+        top:110px;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        width: 100%;
+        display:inline-block;
+
+      }
+
+      .contact{
+        margin:auto;
+      }
+      .contact label{
+        text-align: left;
+        display:inline-block;
+        float: left;
+      }
+      .contact input{
+        text-align: left;
+        float:right;
+        display:inline-block;
+      }
+      #submit{
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        width: 52%;
+        display:inline-block;
+      }
